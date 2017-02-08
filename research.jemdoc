@@ -1,0 +1,5 @@
+# jemdoc: menu{MENU}{research.html}
+= Feng Wang - Research
+
+== Recently
+I am studying [https://www.rust-lang.org Rust], formalizing it using [http://www.kframework.org/index.php/Main_Page K framework].
