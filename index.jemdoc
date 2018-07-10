@@ -1,13 +1,32 @@
 # jemdoc: menu{MENU}{index.html}
 = Feng Wang
 
-== About me
 ~~~
 {}{img_left}{me.jpeg}{130px}{200px}
-I am now a graduate student in [http://sist.shanghaitech.edu.cn School of Information Science and Technology] at [http://www.shanghaitech.edu.cn/eng/ ShanghaiTech]. Before joining SIST, I spent four years at [http://www.njupt.edu.cn Nanjing University of Posts and Telecommunications]
+
+王 丰 
+
+Master Student
+
+Computer Sicence
+
+ShanghaiTech University -- University of Chinese Academy of Sciences
+
+Shanghai, China
+
+Email: wang_feng_bro AT 163 DOT com
 
 ~~~
 
+== About me
+You find me!
 
-== Contact
-wangfeng2 AT shanghaitech.edu.cn 
+I am now a graduate student at [http://sist.shanghaitech.edu.cn School of Information Science and Technology] of [http://www.shanghaitech.edu.cn/eng/ ShanghaiTech University]. Before joining SIST, I spent four years at [http://www.njupt.edu.cn Nanjing University of Posts and Telecommunications].
+
+== Research
+Now I am working on the semantics of Rust using [http://www.kframework.org/index.php/Main_Page K Framework].
+
+== Publication
+[http://sist.shanghaitech.edu.cn/faculty/songfu/publications/TASE18.pdf KRust: A Formal Executable Semantics of Rust] in /Theoretical Aspects of Software Engineering/, Guangzhou, 2018
+
+== Others
